@@ -1,0 +1,19 @@
+{
+    "name": "mj/pro2",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "pusher/pusher-php-server": "^4.1"
+    },
+    "autoload": {
+        "classmap": [
+            "Classes"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Mwai Joseph",
+            "email": "mj@gmail.com"
+        }
+    ]
+
+}
